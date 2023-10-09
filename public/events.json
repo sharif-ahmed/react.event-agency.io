@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkplJzTYrXHBiAfi-ynrTCKCArdFhy-lfOA&usqp=CAU",
+        "capmpaign_title": "Training and Development Programs",
+        "capmpaign_description": "Invest in your employees' growth with our training and development programs. We design and manage educational events, workshops, and seminars that enhance their skills and knowledge.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 2,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUezQZZpxF4ywjtpz0kdO083IP-3JXmhmWig&usqp=CAU",
+        "capmpaign_title": "Holiday Parties and Celebrations",
+        "capmpaign_description": "Celebrate your company's successes with our holiday party and celebration planning. We create festive and memorable events, handling venue selection, decor, catering, and entertainment.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 3,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaxuI6-MwJSGtqAJ3rc4CvhsofSBImuxV68A&usqp=CAU",
+        "capmpaign_title": "Board Meetings and Executive Summits",
+        "capmpaign_description": "Make your board meetings and executive summits efficient and impactful with our services. We manage all aspects, from agenda planning to venue logistics, so your leadership team can focus on strategic discussions.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 4,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3S-TVyU9pmIA6TLtJ4l7PiQ3v15TpIkqJQ&usqp=CAU",
+        "capmpaign_title": "Corporate Retreats",
+        "capmpaign_description": "Our corporate retreats provide a change of scenery for your team, fostering creativity and innovation. We arrange inspiring locations, team-building activities, and logistics for productive retreats.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 5,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKM7b8_Sg2rkcfjN_Jcd02XNORWmEVoyjUHg&usqp=CAU",
+        "capmpaign_title": "Annual Shareholder Meetings",
+        "capmpaign_description": "Ensure the smooth conduct of your annual shareholder meetings with our expert management. We handle venue logistics, shareholder communications, and technology support, allowing you to focus on important business matters.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 6,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQks_JTDNyS-YDuDuAcOrqB1vntQktGvtb71A&usqp=CAU",
+        "capmpaign_title": "Corporate Gala Dinners",
+        "capmpaign_description": "Elevate your corporate image with our corporate gala dinner service. We create elegant and memorable dining experiences, handling everything from venue selection to menu planning and entertainment, ensuring a night to remember.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 7,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPF4sp5TRJhR-JOBSn3UfXf9NYTQT5yeonhQ&usqp=CAU",
+        "capmpaign_title": "Seminars and Workshops",
+        "capmpaign_description": "Our seminars and workshops are crafted to deliver valuable insights and knowledge sharing. We manage event logistics, secure expert speakers, and create an engaging learning environment for your audience.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 8,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIAjjJAvLL5BlgdL7lWYeYmJaTHbSZbTzDA&usqp=CAU",
+        "capmpaign_title": "Trade Shows and Exhibitions",
+        "capmpaign_description": "Hosting or participating in a trade show or exhibition? We'll handle the logistics, booth design, and promotional activities to maximize your presence and ensure a successful trade show experience.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 9,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPrNTbd-ggu04eTUkRgTxeVycMkHLn_E6yw&usqp=CAU",
+        "capmpaign_title": "Sales Meetings and Incentive Programs",
+        "capmpaign_description": "Our sales meeting and incentive program services are designed to motivate your salesforce and reward top performers. We create memorable sales meetings and incentive trips that drive motivation and sales growth.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 10,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYSBduvE9dqzk3ZhJDkWIlGWZLKofN3pJkw&usqp=CAU",
+        "capmpaign_title": "Team Building Activities",
+        "capmpaign_description": "Strengthen your team's bonds and boost productivity with our team building activities. From outdoor adventures to indoor workshops, we offer a range of engaging and customized activities that foster teamwork and camaraderie.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 11,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYVSgI_oJ2fGU4tLzVsMxvb4s3kQ72wUacg&usqp=CAU",
+        "capmpaign_title": "Product Launch Events",
+        "capmpaign_description": "Launching a new product? Our product launch events are designed to generate excitement and buzz around your latest offerings. We manage every aspect, from venue design to marketing strategies, to ensure a successful product launch.",
+        "capmpaign_price": 290
+    },
+    {
+        "id": 12,
+        "capmpaign_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWhvL3KqqzmMJFDXiUCwIt6cFB1CSf3Ihnw&usqp=CAU",
+        "capmpaign_title": "Corporate Conference Planning",
+        "capmpaign_description": "Our corporate conference planning service is tailored to meet the unique needs of your business. We handle everything from venue selection and logistical arrangements to guest registration and audiovisual support, ensuring a seamless and productive conference experience for your attendees.",
+        "capmpaign_price": 290
+    }
+]
